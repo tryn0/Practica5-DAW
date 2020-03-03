@@ -9,3 +9,7 @@ Carpeta docs - carpeta donde se genera la documentación.
 ## Ejecución  
 ```Code
 $ php phpDocumentor.phar -d . -t docs/api
+```
+
+## Ver online
+https://tryn0.github.io/Practica5-DAW/
